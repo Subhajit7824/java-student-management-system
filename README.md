@@ -1,3 +1,4 @@
+
 Student Management System
 
 A simple console-based Student Management System developed using Java. This project allows users to manage student records efficiently through basic CRUD (Create, Read, Update, Delete) operations.
@@ -43,3 +44,7 @@ Learning Objectives
 This project was developed to gain practical experience with Java, object-oriented programming, collections, file handling, input validation, and layered application architecture.
 
 Project Status: Basic implementation completed. Future improvements may include database integration, GUI development, and advanced student analytics.
+=======
+# java-student-management-system
+A console-based Student Management System built using Java, implementing CRUD operations, input validation, OOP principles, and file handling for persistent student data storage.
+>>>>>>> c3daf54b4d11222744e07b22fbe0340f5f64c3fa
