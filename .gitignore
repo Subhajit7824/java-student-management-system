@@ -1,0 +1,14 @@
+# Compiled Java files
+*.class
+out/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Temporary files
+*.tmp
+

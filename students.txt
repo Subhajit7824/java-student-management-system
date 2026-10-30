@@ -1,0 +1,6 @@
+101,Subhajit,90.0,A
+102,Arijit,92.78,A
+103,Debjit,88.12,B
+104,Soubhadra,81.12,B
+106,Kaushik,65.22,C
+110,ABC,45.98,D
